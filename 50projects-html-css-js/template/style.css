@@ -1,7 +1,13 @@
-/*
- * @Author       : Dxy
- * @Date         : 2022-02-08 14:55:49
- * @LastEditors  : Dxy
- * @LastEditTime : 2022-02-08 14:55:51
- * @Descripttion : 
- */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #f6f7fb;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  overflow: hidden;
+  margin: 0;
+}
